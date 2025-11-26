@@ -1,6 +1,6 @@
 {
   "generated_at": "2025-11-26T00:00:00.000Z",
-  "total_avatars": 50,
+  "total_avatars": 99,
   "avatars": {
     "Marcus Aurelius": {
       "filename": "marcus-aurelius.png",
@@ -201,6 +201,202 @@
     "Michel Foucault": {
       "filename": "michel-foucault.png",
       "generated_at": "2025-11-26T14:05:27.731Z"
+    },
+    "Jacques Derrida": {
+      "filename": "jacques-derrida.png",
+      "generated_at": "2025-11-26T14:27:02.677Z"
+    },
+    "Gilles Deleuze": {
+      "filename": "gilles-deleuze.png",
+      "generated_at": "2025-11-26T14:27:12.932Z"
+    },
+    "Jürgen Habermas": {
+      "filename": "j-rgen-habermas.png",
+      "generated_at": "2025-11-26T14:27:23.440Z"
+    },
+    "Ralph Waldo Emerson": {
+      "filename": "ralph-waldo-emerson.png",
+      "generated_at": "2025-11-26T14:27:32.714Z"
+    },
+    "Henry David Thoreau": {
+      "filename": "henry-david-thoreau.png",
+      "generated_at": "2025-11-26T14:27:44.122Z"
+    },
+    "Walt Whitman": {
+      "filename": "walt-whitman.png",
+      "generated_at": "2025-11-26T14:27:53.865Z"
+    },
+    "Emily Dickinson": {
+      "filename": "emily-dickinson.png",
+      "generated_at": "2025-11-26T14:28:04.033Z"
+    },
+    "Mark Twain": {
+      "filename": "mark-twain.png",
+      "generated_at": "2025-11-26T14:28:14.442Z"
+    },
+    "Oscar Wilde": {
+      "filename": "oscar-wilde.png",
+      "generated_at": "2025-11-26T14:28:23.987Z"
+    },
+    "George Bernard Shaw": {
+      "filename": "george-bernard-shaw.png",
+      "generated_at": "2025-11-26T14:28:35.067Z"
+    },
+    "Bertolt Brecht": {
+      "filename": "bertolt-brecht.png",
+      "generated_at": "2025-11-26T14:28:46.240Z"
+    },
+    "Leo Tolstoy": {
+      "filename": "leo-tolstoy.png",
+      "generated_at": "2025-11-26T14:28:56.734Z"
+    },
+    "Fyodor Dostoevsky": {
+      "filename": "fyodor-dostoevsky.png",
+      "generated_at": "2025-11-26T14:29:14.320Z"
+    },
+    "Anton Chekhov": {
+      "filename": "anton-chekhov.png",
+      "generated_at": "2025-11-26T14:29:26.580Z"
+    },
+    "Franz Kafka": {
+      "filename": "franz-kafka.png",
+      "generated_at": "2025-11-26T14:29:39.053Z"
+    },
+    "Thomas Mann": {
+      "filename": "thomas-mann.png",
+      "generated_at": "2025-11-26T14:29:50.495Z"
+    },
+    "James Joyce": {
+      "filename": "james-joyce.png",
+      "generated_at": "2025-11-26T14:30:28.008Z"
+    },
+    "Virginia Woolf": {
+      "filename": "virginia-woolf.png",
+      "generated_at": "2025-11-26T14:30:40.478Z"
+    },
+    "T.S. Eliot": {
+      "filename": "t-s--eliot.png",
+      "generated_at": "2025-11-26T14:30:51.015Z"
+    },
+    "W.B. Yeats": {
+      "filename": "w-b--yeats.png",
+      "generated_at": "2025-11-26T14:31:04.071Z"
+    },
+    "Rabindranath Tagore": {
+      "filename": "rabindranath-tagore.png",
+      "generated_at": "2025-11-26T14:31:13.850Z"
+    },
+    "Kahlil Gibran": {
+      "filename": "kahlil-gibran.png",
+      "generated_at": "2025-11-26T14:31:34.893Z"
+    },
+    "Paulo Coelho": {
+      "filename": "paulo-coelho.png",
+      "generated_at": "2025-11-26T14:31:47.066Z"
+    },
+    "Jorge Luis Borges": {
+      "filename": "jorge-luis-borges.png",
+      "generated_at": "2025-11-26T14:31:59.101Z"
+    },
+    "Gabriel García Márquez": {
+      "filename": "gabriel-garc-a-m-rquez.png",
+      "generated_at": "2025-11-26T14:32:10.827Z"
+    },
+    "Octavio Paz": {
+      "filename": "octavio-paz.png",
+      "generated_at": "2025-11-26T14:32:20.860Z"
+    },
+    "Carl Jung": {
+      "filename": "carl-jung.png",
+      "generated_at": "2025-11-26T14:32:34.477Z"
+    },
+    "Sigmund Freud": {
+      "filename": "sigmund-freud.png",
+      "generated_at": "2025-11-26T14:32:46.401Z"
+    },
+    "Alfred Adler": {
+      "filename": "alfred-adler.png",
+      "generated_at": "2025-11-26T14:33:02.341Z"
+    },
+    "Viktor Frankl": {
+      "filename": "viktor-frankl.png",
+      "generated_at": "2025-11-26T14:33:15.791Z"
+    },
+    "Erich Fromm": {
+      "filename": "erich-fromm.png",
+      "generated_at": "2025-11-26T14:33:39.439Z"
+    },
+    "Abraham Maslow": {
+      "filename": "abraham-maslow.png",
+      "generated_at": "2025-11-26T14:33:59.387Z"
+    },
+    "Carl Rogers": {
+      "filename": "carl-rogers.png",
+      "generated_at": "2025-11-26T14:34:11.277Z"
+    },
+    "Rollo May": {
+      "filename": "rollo-may.png",
+      "generated_at": "2025-11-26T14:34:31.146Z"
+    },
+    "Irvin Yalom": {
+      "filename": "irvin-yalom.png",
+      "generated_at": "2025-11-26T14:34:57.325Z"
+    },
+    "Martin Buber": {
+      "filename": "martin-buber.png",
+      "generated_at": "2025-11-26T14:35:11.795Z"
+    },
+    "Paul Tillich": {
+      "filename": "paul-tillich.png",
+      "generated_at": "2025-11-26T14:35:27.836Z"
+    },
+    "Reinhold Niebuhr": {
+      "filename": "reinhold-niebuhr.png",
+      "generated_at": "2025-11-26T14:35:50.420Z"
+    },
+    "Dietrich Bonhoeffer": {
+      "filename": "dietrich-bonhoeffer.png",
+      "generated_at": "2025-11-26T14:36:05.294Z"
+    },
+    "Thich Nhat Hanh": {
+      "filename": "thich-nhat-hanh.png",
+      "generated_at": "2025-11-26T14:36:16.637Z"
+    },
+    "Dalai Lama": {
+      "filename": "dalai-lama.png",
+      "generated_at": "2025-11-26T14:36:29.029Z"
+    },
+    "Jiddu Krishnamurti": {
+      "filename": "jiddu-krishnamurti.png",
+      "generated_at": "2025-11-26T14:36:40.773Z"
+    },
+    "Alan Watts": {
+      "filename": "alan-watts.png",
+      "generated_at": "2025-11-26T14:36:51.251Z"
+    },
+    "D.T. Suzuki": {
+      "filename": "d-t--suzuki.png",
+      "generated_at": "2025-11-26T14:37:05.266Z"
+    },
+    "Shunryu Suzuki": {
+      "filename": "shunryu-suzuki.png",
+      "generated_at": "2025-11-26T14:37:18.109Z"
+    },
+    "Ram Dass": {
+      "filename": "ram-dass.png",
+      "generated_at": "2025-11-26T14:37:32.627Z"
+    },
+    "Pema Chödrön": {
+      "filename": "pema-ch-dr-n.png",
+      "generated_at": "2025-11-26T14:37:45.618Z"
+    },
+    "Eckhart Tolle": {
+      "filename": "eckhart-tolle.png",
+      "generated_at": "2025-11-26T14:37:57.370Z"
+    },
+    "Joseph Campbell": {
+      "filename": "joseph-campbell.png",
+      "generated_at": "2025-11-26T14:38:09.192Z"
     }
   },
   "cdn_base_url": "https://raw.githubusercontent.com/aletuan/youth-wisdom-avatars/main/avatars/",
@@ -212,5 +408,5 @@
     "size": "1024x1024",
     "format": "PNG"
   },
-  "updated_at": "2025-11-26T14:05:27.731Z"
+  "updated_at": "2025-11-26T14:38:09.192Z"
 }
