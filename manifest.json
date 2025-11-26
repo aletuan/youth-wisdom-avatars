@@ -1,0 +1,56 @@
+{
+  "generated_at": "2025-11-26T00:00:00.000Z",
+  "total_avatars": 10,
+  "avatars": {
+    "Marcus Aurelius": {
+      "filename": "marcus-aurelius.png",
+      "generated_at": "2025-11-26T13:31:54.174Z"
+    },
+    "Seneca": {
+      "filename": "seneca.png",
+      "generated_at": "2025-11-26T13:32:05.076Z"
+    },
+    "Epictetus": {
+      "filename": "epictetus.png",
+      "generated_at": "2025-11-26T13:32:14.232Z"
+    },
+    "Socrates": {
+      "filename": "socrates.png",
+      "generated_at": "2025-11-26T13:32:23.679Z"
+    },
+    "Plato": {
+      "filename": "plato.png",
+      "generated_at": "2025-11-26T13:32:33.175Z"
+    },
+    "Aristotle": {
+      "filename": "aristotle.png",
+      "generated_at": "2025-11-26T13:32:48.095Z"
+    },
+    "Confucius": {
+      "filename": "confucius.png",
+      "generated_at": "2025-11-26T13:32:58.460Z"
+    },
+    "Lao Tzu": {
+      "filename": "lao-tzu.png",
+      "generated_at": "2025-11-26T13:33:10.795Z"
+    },
+    "Buddha": {
+      "filename": "buddha.png",
+      "generated_at": "2025-11-26T13:33:23.884Z"
+    },
+    "Zhuangzi": {
+      "filename": "zhuangzi.png",
+      "generated_at": "2025-11-26T13:33:34.414Z"
+    }
+  },
+  "cdn_base_url": "https://raw.githubusercontent.com/aletuan/youth-wisdom-avatars/main/avatars/",
+  "version": "1.0.0",
+  "style": {
+    "technique": "pen and ink sketch, classical engraving",
+    "colors": "black and white only, monochrome",
+    "background": "pure white (#FFFFFF)",
+    "size": "1024x1024",
+    "format": "PNG"
+  },
+  "updated_at": "2025-11-26T13:33:34.414Z"
+}
