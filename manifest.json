@@ -1,6 +1,6 @@
 {
   "generated_at": "2025-11-26T00:00:00.000Z",
-  "total_avatars": 10,
+  "total_avatars": 50,
   "avatars": {
     "Marcus Aurelius": {
       "filename": "marcus-aurelius.png",
@@ -41,6 +41,166 @@
     "Zhuangzi": {
       "filename": "zhuangzi.png",
       "generated_at": "2025-11-26T13:33:34.414Z"
+    },
+    "Mencius": {
+      "filename": "mencius.png",
+      "generated_at": "2025-11-26T13:57:50.749Z"
+    },
+    "Sun Tzu": {
+      "filename": "sun-tzu.png",
+      "generated_at": "2025-11-26T13:58:05.316Z"
+    },
+    "Rumi": {
+      "filename": "rumi.png",
+      "generated_at": "2025-11-26T13:58:18.434Z"
+    },
+    "Omar Khayyam": {
+      "filename": "omar-khayyam.png",
+      "generated_at": "2025-11-26T13:58:33.582Z"
+    },
+    "Al-Ghazali": {
+      "filename": "al-ghazali.png",
+      "generated_at": "2025-11-26T13:58:46.246Z"
+    },
+    "Ibn Arabi": {
+      "filename": "ibn-arabi.png",
+      "generated_at": "2025-11-26T13:58:59.853Z"
+    },
+    "Avicenna": {
+      "filename": "avicenna.png",
+      "generated_at": "2025-11-26T13:59:11.791Z"
+    },
+    "Averroes": {
+      "filename": "averroes.png",
+      "generated_at": "2025-11-26T13:59:22.114Z"
+    },
+    "Thomas Aquinas": {
+      "filename": "thomas-aquinas.png",
+      "generated_at": "2025-11-26T13:59:31.549Z"
+    },
+    "Augustine of Hippo": {
+      "filename": "augustine-of-hippo.png",
+      "generated_at": "2025-11-26T13:59:43.869Z"
+    },
+    "Francis of Assisi": {
+      "filename": "francis-of-assisi.png",
+      "generated_at": "2025-11-26T13:59:56.065Z"
+    },
+    "Meister Eckhart": {
+      "filename": "meister-eckhart.png",
+      "generated_at": "2025-11-26T14:00:07.001Z"
+    },
+    "Michel de Montaigne": {
+      "filename": "michel-de-montaigne.png",
+      "generated_at": "2025-11-26T14:00:20.577Z"
+    },
+    "Blaise Pascal": {
+      "filename": "blaise-pascal.png",
+      "generated_at": "2025-11-26T14:00:36.087Z"
+    },
+    "René Descartes": {
+      "filename": "ren--descartes.png",
+      "generated_at": "2025-11-26T14:00:46.458Z"
+    },
+    "Baruch Spinoza": {
+      "filename": "baruch-spinoza.png",
+      "generated_at": "2025-11-26T14:00:56.661Z"
+    },
+    "Gottfried Leibniz": {
+      "filename": "gottfried-leibniz.png",
+      "generated_at": "2025-11-26T14:01:07.005Z"
+    },
+    "John Locke": {
+      "filename": "john-locke.png",
+      "generated_at": "2025-11-26T14:01:19.747Z"
+    },
+    "David Hume": {
+      "filename": "david-hume.png",
+      "generated_at": "2025-11-26T14:01:29.619Z"
+    },
+    "Immanuel Kant": {
+      "filename": "immanuel-kant.png",
+      "generated_at": "2025-11-26T14:01:39.956Z"
+    },
+    "Georg Wilhelm Friedrich Hegel": {
+      "filename": "georg-wilhelm-friedrich-hegel.png",
+      "generated_at": "2025-11-26T14:01:51.776Z"
+    },
+    "Arthur Schopenhauer": {
+      "filename": "arthur-schopenhauer.png",
+      "generated_at": "2025-11-26T14:02:01.591Z"
+    },
+    "Søren Kierkegaard": {
+      "filename": "s-ren-kierkegaard.png",
+      "generated_at": "2025-11-26T14:02:14.243Z"
+    },
+    "Friedrich Nietzsche": {
+      "filename": "friedrich-nietzsche.png",
+      "generated_at": "2025-11-26T14:02:26.643Z"
+    },
+    "Karl Marx": {
+      "filename": "karl-marx.png",
+      "generated_at": "2025-11-26T14:02:36.977Z"
+    },
+    "John Stuart Mill": {
+      "filename": "john-stuart-mill.png",
+      "generated_at": "2025-11-26T14:02:48.093Z"
+    },
+    "William James": {
+      "filename": "william-james.png",
+      "generated_at": "2025-11-26T14:02:58.855Z"
+    },
+    "Henri Bergson": {
+      "filename": "henri-bergson.png",
+      "generated_at": "2025-11-26T14:03:11.623Z"
+    },
+    "Edmund Husserl": {
+      "filename": "edmund-husserl.png",
+      "generated_at": "2025-11-26T14:03:20.457Z"
+    },
+    "Martin Heidegger": {
+      "filename": "martin-heidegger.png",
+      "generated_at": "2025-11-26T14:03:30.316Z"
+    },
+    "Jean-Paul Sartre": {
+      "filename": "jean-paul-sartre.png",
+      "generated_at": "2025-11-26T14:03:41.953Z"
+    },
+    "Simone de Beauvoir": {
+      "filename": "simone-de-beauvoir.png",
+      "generated_at": "2025-11-26T14:03:53.413Z"
+    },
+    "Albert Camus": {
+      "filename": "albert-camus.png",
+      "generated_at": "2025-11-26T14:04:02.272Z"
+    },
+    "Maurice Merleau-Ponty": {
+      "filename": "maurice-merleau-ponty.png",
+      "generated_at": "2025-11-26T14:04:17.388Z"
+    },
+    "Emmanuel Levinas": {
+      "filename": "emmanuel-levinas.png",
+      "generated_at": "2025-11-26T14:04:30.887Z"
+    },
+    "Hannah Arendt": {
+      "filename": "hannah-arendt.png",
+      "generated_at": "2025-11-26T14:04:41.830Z"
+    },
+    "Bertrand Russell": {
+      "filename": "bertrand-russell.png",
+      "generated_at": "2025-11-26T14:04:51.472Z"
+    },
+    "Ludwig Wittgenstein": {
+      "filename": "ludwig-wittgenstein.png",
+      "generated_at": "2025-11-26T14:05:00.598Z"
+    },
+    "Karl Popper": {
+      "filename": "karl-popper.png",
+      "generated_at": "2025-11-26T14:05:15.223Z"
+    },
+    "Michel Foucault": {
+      "filename": "michel-foucault.png",
+      "generated_at": "2025-11-26T14:05:27.731Z"
     }
   },
   "cdn_base_url": "https://raw.githubusercontent.com/aletuan/youth-wisdom-avatars/main/avatars/",
@@ -52,5 +212,5 @@
     "size": "1024x1024",
     "format": "PNG"
   },
-  "updated_at": "2025-11-26T13:33:34.414Z"
+  "updated_at": "2025-11-26T14:05:27.731Z"
 }
