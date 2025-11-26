@@ -1,6 +1,6 @@
 {
   "generated_at": "2025-11-26T00:00:00.000Z",
-  "total_avatars": 147,
+  "total_avatars": 192,
   "avatars": {
     "Marcus Aurelius": {
       "filename": "marcus-aurelius.png",
@@ -589,6 +589,186 @@
     "Eleanor Roosevelt": {
       "filename": "eleanor-roosevelt.png",
       "generated_at": "2025-11-26T23:42:38.466Z"
+    },
+    "Margaret Thatcher": {
+      "filename": "margaret-thatcher.png",
+      "generated_at": "2025-11-26T23:45:54.607Z"
+    },
+    "Indira Gandhi": {
+      "filename": "indira-gandhi.png",
+      "generated_at": "2025-11-26T23:46:03.766Z"
+    },
+    "Golda Meir": {
+      "filename": "golda-meir.png",
+      "generated_at": "2025-11-26T23:46:13.084Z"
+    },
+    "Aung San Suu Kyi": {
+      "filename": "aung-san-suu-kyi.png",
+      "generated_at": "2025-11-26T23:46:21.029Z"
+    },
+    "Malala Yousafzai": {
+      "filename": "malala-yousafzai.png",
+      "generated_at": "2025-11-26T23:46:28.213Z"
+    },
+    "Albert Einstein": {
+      "filename": "albert-einstein.png",
+      "generated_at": "2025-11-26T23:46:35.739Z"
+    },
+    "Stephen Hawking": {
+      "filename": "stephen-hawking.png",
+      "generated_at": "2025-11-26T23:46:43.059Z"
+    },
+    "Carl Sagan": {
+      "filename": "carl-sagan.png",
+      "generated_at": "2025-11-26T23:46:50.589Z"
+    },
+    "Richard Feynman": {
+      "filename": "richard-feynman.png",
+      "generated_at": "2025-11-26T23:46:58.707Z"
+    },
+    "Marie Curie": {
+      "filename": "marie-curie.png",
+      "generated_at": "2025-11-26T23:47:07.118Z"
+    },
+    "Isaac Newton": {
+      "filename": "isaac-newton.png",
+      "generated_at": "2025-11-26T23:47:15.138Z"
+    },
+    "Galileo Galilei": {
+      "filename": "galileo-galilei.png",
+      "generated_at": "2025-11-26T23:47:22.467Z"
+    },
+    "Leonardo da Vinci": {
+      "filename": "leonardo-da-vinci.png",
+      "generated_at": "2025-11-26T23:47:30.323Z"
+    },
+    "Nikola Tesla": {
+      "filename": "nikola-tesla.png",
+      "generated_at": "2025-11-26T23:47:37.597Z"
+    },
+    "Thomas Edison": {
+      "filename": "thomas-edison.png",
+      "generated_at": "2025-11-26T23:47:45.695Z"
+    },
+    "Steve Jobs": {
+      "filename": "steve-jobs.png",
+      "generated_at": "2025-11-26T23:47:54.767Z"
+    },
+    "Bill Gates": {
+      "filename": "bill-gates.png",
+      "generated_at": "2025-11-26T23:48:02.201Z"
+    },
+    "Elon Musk": {
+      "filename": "elon-musk.png",
+      "generated_at": "2025-11-26T23:48:09.714Z"
+    },
+    "Warren Buffett": {
+      "filename": "warren-buffett.png",
+      "generated_at": "2025-11-26T23:48:16.946Z"
+    },
+    "Peter Drucker": {
+      "filename": "peter-drucker.png",
+      "generated_at": "2025-11-26T23:48:24.047Z"
+    },
+    "W. Edwards Deming": {
+      "filename": "w--edwards-deming.png",
+      "generated_at": "2025-11-26T23:48:31.844Z"
+    },
+    "Philip Kotler": {
+      "filename": "philip-kotler.png",
+      "generated_at": "2025-11-26T23:48:39.321Z"
+    },
+    "Michael Porter": {
+      "filename": "michael-porter.png",
+      "generated_at": "2025-11-26T23:48:47.514Z"
+    },
+    "Clayton Christensen": {
+      "filename": "clayton-christensen.png",
+      "generated_at": "2025-11-26T23:48:57.907Z"
+    },
+    "Peter Thiel": {
+      "filename": "peter-thiel.png",
+      "generated_at": "2025-11-26T23:49:06.834Z"
+    },
+    "Marc Andreessen": {
+      "filename": "marc-andreessen.png",
+      "generated_at": "2025-11-26T23:49:16.983Z"
+    },
+    "Reid Hoffman": {
+      "filename": "reid-hoffman.png",
+      "generated_at": "2025-11-26T23:49:24.238Z"
+    },
+    "Sheryl Sandberg": {
+      "filename": "sheryl-sandberg.png",
+      "generated_at": "2025-11-26T23:49:32.225Z"
+    },
+    "Satya Nadella": {
+      "filename": "satya-nadella.png",
+      "generated_at": "2025-11-26T23:49:40.388Z"
+    },
+    "Sundar Pichai": {
+      "filename": "sundar-pichai.png",
+      "generated_at": "2025-11-26T23:49:47.978Z"
+    },
+    "Jack Ma": {
+      "filename": "jack-ma.png",
+      "generated_at": "2025-11-26T23:49:55.010Z"
+    },
+    "Masayoshi Son": {
+      "filename": "masayoshi-son.png",
+      "generated_at": "2025-11-26T23:50:03.187Z"
+    },
+    "Richard Branson": {
+      "filename": "richard-branson.png",
+      "generated_at": "2025-11-26T23:50:11.129Z"
+    },
+    "Oprah Winfrey": {
+      "filename": "oprah-winfrey.png",
+      "generated_at": "2025-11-26T23:50:18.721Z"
+    },
+    "Ellen DeGeneres": {
+      "filename": "ellen-degeneres.png",
+      "generated_at": "2025-11-26T23:50:26.693Z"
+    },
+    "Jim Carrey": {
+      "filename": "jim-carrey.png",
+      "generated_at": "2025-11-26T23:50:34.123Z"
+    },
+    "Robin Williams": {
+      "filename": "robin-williams.png",
+      "generated_at": "2025-11-26T23:50:41.667Z"
+    },
+    "Fred Rogers": {
+      "filename": "fred-rogers.png",
+      "generated_at": "2025-11-26T23:50:49.533Z"
+    },
+    "Bob Ross": {
+      "filename": "bob-ross.png",
+      "generated_at": "2025-11-26T23:50:57.340Z"
+    },
+    "Bruce Lee": {
+      "filename": "bruce-lee.png",
+      "generated_at": "2025-11-26T23:51:04.956Z"
+    },
+    "Muhammad Ali": {
+      "filename": "muhammad-ali.png",
+      "generated_at": "2025-11-26T23:51:12.756Z"
+    },
+    "Michael Jordan": {
+      "filename": "michael-jordan.png",
+      "generated_at": "2025-11-26T23:51:19.648Z"
+    },
+    "Serena Williams": {
+      "filename": "serena-williams.png",
+      "generated_at": "2025-11-26T23:51:27.664Z"
+    },
+    "Kobe Bryant": {
+      "filename": "kobe-bryant.png",
+      "generated_at": "2025-11-26T23:51:37.392Z"
+    },
+    "LeBron James": {
+      "filename": "lebron-james.png",
+      "generated_at": "2025-11-26T23:51:46.306Z"
     }
   },
   "cdn_base_url": "https://raw.githubusercontent.com/aletuan/youth-wisdom-avatars/main/avatars/",
@@ -600,5 +780,5 @@
     "size": "1024x1024",
     "format": "PNG"
   },
-  "updated_at": "2025-11-26T23:42:38.466Z"
+  "updated_at": "2025-11-26T23:51:46.306Z"
 }
