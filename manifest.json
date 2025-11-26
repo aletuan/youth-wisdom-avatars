@@ -1,6 +1,6 @@
 {
   "generated_at": "2025-11-26T00:00:00.000Z",
-  "total_avatars": 99,
+  "total_avatars": 147,
   "avatars": {
     "Marcus Aurelius": {
       "filename": "marcus-aurelius.png",
@@ -397,6 +397,198 @@
     "Joseph Campbell": {
       "filename": "joseph-campbell.png",
       "generated_at": "2025-11-26T14:38:09.192Z"
+    },
+    "Aldous Huxley": {
+      "filename": "aldous-huxley.png",
+      "generated_at": "2025-11-26T23:36:18.774Z"
+    },
+    "Christopher Hitchens": {
+      "filename": "christopher-hitchens.png",
+      "generated_at": "2025-11-26T23:36:27.033Z"
+    },
+    "Sam Harris": {
+      "filename": "sam-harris.png",
+      "generated_at": "2025-11-26T23:36:34.615Z"
+    },
+    "Daniel Dennett": {
+      "filename": "daniel-dennett.png",
+      "generated_at": "2025-11-26T23:36:42.597Z"
+    },
+    "Noam Chomsky": {
+      "filename": "noam-chomsky.png",
+      "generated_at": "2025-11-26T23:36:50.248Z"
+    },
+    "Steven Pinker": {
+      "filename": "steven-pinker.png",
+      "generated_at": "2025-11-26T23:36:58.462Z"
+    },
+    "Yuval Noah Harari": {
+      "filename": "yuval-noah-harari.png",
+      "generated_at": "2025-11-26T23:37:05.518Z"
+    },
+    "Jordan Peterson": {
+      "filename": "jordan-peterson.png",
+      "generated_at": "2025-11-26T23:37:12.676Z"
+    },
+    "Brené Brown": {
+      "filename": "bren--brown.png",
+      "generated_at": "2025-11-26T23:37:21.609Z"
+    },
+    "Malcolm Gladwell": {
+      "filename": "malcolm-gladwell.png",
+      "generated_at": "2025-11-26T23:37:30.128Z"
+    },
+    "Seth Godin": {
+      "filename": "seth-godin.png",
+      "generated_at": "2025-11-26T23:37:39.392Z"
+    },
+    "Simon Sinek": {
+      "filename": "simon-sinek.png",
+      "generated_at": "2025-11-26T23:37:47.453Z"
+    },
+    "Naval Ravikant": {
+      "filename": "naval-ravikant.png",
+      "generated_at": "2025-11-26T23:37:55.410Z"
+    },
+    "Tim Ferriss": {
+      "filename": "tim-ferriss.png",
+      "generated_at": "2025-11-26T23:38:02.753Z"
+    },
+    "Ryan Holiday": {
+      "filename": "ryan-holiday.png",
+      "generated_at": "2025-11-26T23:38:10.524Z"
+    },
+    "Stephen Covey": {
+      "filename": "stephen-covey.png",
+      "generated_at": "2025-11-26T23:38:18.026Z"
+    },
+    "Dale Carnegie": {
+      "filename": "dale-carnegie.png",
+      "generated_at": "2025-11-26T23:38:25.662Z"
+    },
+    "Napoleon Hill": {
+      "filename": "napoleon-hill.png",
+      "generated_at": "2025-11-26T23:38:34.748Z"
+    },
+    "Jim Rohn": {
+      "filename": "jim-rohn.png",
+      "generated_at": "2025-11-26T23:38:42.703Z"
+    },
+    "Tony Robbins": {
+      "filename": "tony-robbins.png",
+      "generated_at": "2025-11-26T23:38:50.440Z"
+    },
+    "Norman Vincent Peale": {
+      "filename": "norman-vincent-peale.png",
+      "generated_at": "2025-11-26T23:38:58.872Z"
+    },
+    "Wayne Dyer": {
+      "filename": "wayne-dyer.png",
+      "generated_at": "2025-11-26T23:39:07.073Z"
+    },
+    "Deepak Chopra": {
+      "filename": "deepak-chopra.png",
+      "generated_at": "2025-11-26T23:39:14.064Z"
+    },
+    "Louise Hay": {
+      "filename": "louise-hay.png",
+      "generated_at": "2025-11-26T23:39:21.938Z"
+    },
+    "Marianne Williamson": {
+      "filename": "marianne-williamson.png",
+      "generated_at": "2025-11-26T23:39:29.605Z"
+    },
+    "Maya Angelou": {
+      "filename": "maya-angelou.png",
+      "generated_at": "2025-11-26T23:39:37.126Z"
+    },
+    "Toni Morrison": {
+      "filename": "toni-morrison.png",
+      "generated_at": "2025-11-26T23:39:49.170Z"
+    },
+    "James Baldwin": {
+      "filename": "james-baldwin.png",
+      "generated_at": "2025-11-26T23:39:59.359Z"
+    },
+    "bell hooks": {
+      "filename": "bell-hooks.png",
+      "generated_at": "2025-11-26T23:40:07.567Z"
+    },
+    "Cornel West": {
+      "filename": "cornel-west.png",
+      "generated_at": "2025-11-26T23:40:15.760Z"
+    },
+    "Martin Luther King Jr.": {
+      "filename": "martin-luther-king-jr-.png",
+      "generated_at": "2025-11-26T23:40:23.708Z"
+    },
+    "Malcolm X": {
+      "filename": "malcolm-x.png",
+      "generated_at": "2025-11-26T23:40:31.520Z"
+    },
+    "Nelson Mandela": {
+      "filename": "nelson-mandela.png",
+      "generated_at": "2025-11-26T23:40:38.847Z"
+    },
+    "Mahatma Gandhi": {
+      "filename": "mahatma-gandhi.png",
+      "generated_at": "2025-11-26T23:40:46.827Z"
+    },
+    "Mother Teresa": {
+      "filename": "mother-teresa.png",
+      "generated_at": "2025-11-26T23:40:54.748Z"
+    },
+    "Desmond Tutu": {
+      "filename": "desmond-tutu.png",
+      "generated_at": "2025-11-26T23:41:04.333Z"
+    },
+    "Dalai Lama XIV": {
+      "filename": "dalai-lama-xiv.png",
+      "generated_at": "2025-11-26T23:41:11.837Z"
+    },
+    "Pope John Paul II": {
+      "filename": "pope-john-paul-ii.png",
+      "generated_at": "2025-11-26T23:41:19.222Z"
+    },
+    "Pope Francis": {
+      "filename": "pope-francis.png",
+      "generated_at": "2025-11-26T23:41:27.332Z"
+    },
+    "Winston Churchill": {
+      "filename": "winston-churchill.png",
+      "generated_at": "2025-11-26T23:41:36.624Z"
+    },
+    "Theodore Roosevelt": {
+      "filename": "theodore-roosevelt.png",
+      "generated_at": "2025-11-26T23:41:44.036Z"
+    },
+    "Franklin D. Roosevelt": {
+      "filename": "franklin-d--roosevelt.png",
+      "generated_at": "2025-11-26T23:41:51.155Z"
+    },
+    "John F. Kennedy": {
+      "filename": "john-f--kennedy.png",
+      "generated_at": "2025-11-26T23:41:58.884Z"
+    },
+    "Abraham Lincoln": {
+      "filename": "abraham-lincoln.png",
+      "generated_at": "2025-11-26T23:42:06.630Z"
+    },
+    "Thomas Jefferson": {
+      "filename": "thomas-jefferson.png",
+      "generated_at": "2025-11-26T23:42:13.983Z"
+    },
+    "Benjamin Franklin": {
+      "filename": "benjamin-franklin.png",
+      "generated_at": "2025-11-26T23:42:21.816Z"
+    },
+    "George Washington": {
+      "filename": "george-washington.png",
+      "generated_at": "2025-11-26T23:42:30.437Z"
+    },
+    "Eleanor Roosevelt": {
+      "filename": "eleanor-roosevelt.png",
+      "generated_at": "2025-11-26T23:42:38.466Z"
     }
   },
   "cdn_base_url": "https://raw.githubusercontent.com/aletuan/youth-wisdom-avatars/main/avatars/",
@@ -408,5 +600,5 @@
     "size": "1024x1024",
     "format": "PNG"
   },
-  "updated_at": "2025-11-26T14:38:09.192Z"
+  "updated_at": "2025-11-26T23:42:38.466Z"
 }
