@@ -5,12 +5,13 @@
  * Generates avatars for a curated list of authors using Gemini API
  *
  * Usage:
- *   node generate-batch.js [--start N] [--limit N] [--delay MS]
+ *   node generate-batch.js [--start N] [--limit N] [--delay MS] [--force]
  *
  * Options:
  *   --start N    Start from author index N (default: 0)
  *   --limit N    Generate only N avatars (default: all)
  *   --delay MS   Delay between API calls in ms (default: 1000)
+ *   --force      Regenerate all avatars even if they already exist
  */
 
 const fs = require('fs');
@@ -25,6 +26,7 @@ const args = process.argv.slice(2);
 const startIndex = parseInt(args.find(arg => arg.startsWith('--start'))?.split('=')[1] || '0');
 const limit = parseInt(args.find(arg => arg.startsWith('--limit'))?.split('=')[1] || '0');
 const delay = parseInt(args.find(arg => arg.startsWith('--delay'))?.split('=')[1] || '1000');
+const forceRegenerate = args.includes('--force');
 
 // Paths
 const AUTHORS_FILE = path.join(__dirname, 'authors.json');
@@ -162,6 +164,7 @@ async function main() {
   log(`Start index: ${startIndex}`);
   log(`Limit: ${limit || 'all'}`);
   log(`Delay: ${delay}ms`);
+  log(`Force regenerate: ${forceRegenerate ? 'YES' : 'NO'}`);
 
   // Load existing manifest
   const manifest = loadManifest();
@@ -183,15 +186,22 @@ async function main() {
     const filename = normalizeFilename(author);
     const filepath = path.join(AVATARS_DIR, filename);
 
-    // Skip if already exists
-    if (fs.existsSync(filepath)) {
+    // Skip if already exists (unless --force is specified)
+    if (fs.existsSync(filepath) && !forceRegenerate) {
       log(`[${currentIndex + 1}/${authors.length}] ⏭️  SKIP: ${author} (already exists)`);
       skipCount++;
       continue;
     }
 
     try {
-      log(`[${currentIndex + 1}/${authors.length}] 🎨 Generating: ${author}...`);
+      const action = fs.existsSync(filepath) ? 'Regenerating' : 'Generating';
+      log(`[${currentIndex + 1}/${authors.length}] 🎨 ${action}: ${author}...`);
+
+      // Backup existing file if force regenerating
+      if (forceRegenerate && fs.existsSync(filepath)) {
+        const backupPath = filepath.replace('.png', '.backup.png');
+        fs.copyFileSync(filepath, backupPath);
+      }
 
       const base64Data = await generateAvatar(author);
       const savedFilename = saveAvatar(author, base64Data);
