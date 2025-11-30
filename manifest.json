@@ -128,7 +128,8 @@
     },
     "Arthur Schopenhauer": {
       "filename": "arthur-schopenhauer.png",
-      "generated_at": "2025-11-26T14:02:01.591Z"
+      "generated_at": "2025-11-30T06:45:56.141Z",
+      "regenerated": true
     },
     "Søren Kierkegaard": {
       "filename": "s-ren-kierkegaard.png",
@@ -328,7 +329,8 @@
     },
     "Abraham Maslow": {
       "filename": "abraham-maslow.png",
-      "generated_at": "2025-11-26T14:33:59.387Z"
+      "generated_at": "2025-11-30T06:46:04.012Z",
+      "regenerated": true
     },
     "Carl Rogers": {
       "filename": "carl-rogers.png",
@@ -780,5 +782,5 @@
     "size": "1024x1024",
     "format": "PNG"
   },
-  "updated_at": "2025-11-26T23:51:46.306Z"
+  "updated_at": "2025-11-30T06:46:04.012Z"
 }
